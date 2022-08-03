@@ -1,0 +1,14 @@
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\bin\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.exe
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\bin\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.deps.json
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\bin\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.runtimeconfig.json
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\bin\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.runtimeconfig.dev.json
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\bin\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.dll
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\bin\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.pdb
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.csproj.AssemblyReference.cache
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.AssemblyInfoInputs.cache
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.AssemblyInfo.cs
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.csproj.CoreCompileInputs.cache
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.dll
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.pdb
+C:\Users\tahma\Desktop\vs\ArrayinEnKicikElementiniTap1\ArrayinEnKicikElementiniTap1\obj\Debug\netcoreapp3.1\ArrayinEnKicikElementiniTap1.genruntimeconfig.cache

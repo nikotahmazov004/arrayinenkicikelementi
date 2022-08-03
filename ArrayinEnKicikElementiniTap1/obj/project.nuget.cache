@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pzD2wntPn6oCkeGjlf5HDpI+4jGQY3+PA/p93AcMbXwqk9kl20Xn3cuJKfsRdjXumuAj/9DnuBsvDHcIWwiFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tahma\\Desktop\\vs\\ArrayinEnKicikElementiniTap1\\ArrayinEnKicikElementiniTap1\\ArrayinEnKicikElementiniTap1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tahma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
